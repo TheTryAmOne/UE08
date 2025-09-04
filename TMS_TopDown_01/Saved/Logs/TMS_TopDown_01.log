@@ -1379,3 +1379,39 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.04-17.20.33:364][ 70]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-tJfRzQXW90eFYorxretiMA-SJ294WZtbkmY3FyaYpgrSw]
 [2025.09.04-17.20.43:624][918]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
 [2025.09.04-17.21.37:048][571]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.04-17.25.44:679][313]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 328.991089
+[2025.09.04-17.25.45:679][316]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-17.25.45:680][316]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 329.657806, Update Interval: 331.839355
+[2025.09.04-17.31.20:433][320]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 664.743958
+[2025.09.04-17.31.21:433][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-17.31.21:433][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 665.410217, Update Interval: 352.193970
+[2025.09.04-17.33.14:655][834]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.09.04-17.33.14:656][834]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2025.09.04-17.33.14:799][836]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.04-17.33.14:799][836]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.09.04-17.33.42:554][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.04-17.33.42:599][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-17.33.42:678][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/FD/H6232UBBQPM7MPPYTG2MZ1
+[2025.09.04-17.33.42:678][966]LogSavePackage: Moving '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Saved/H6232UBBQPM7MPPYTG2MZ1D3FBA2F14746D9B60E011EB62F5F7115.tmp' to '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/FD/H6232UBBQPM7MPPYTG2MZ1.uasset'
+[2025.09.04-17.33.42:720][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/PP/0FWE1XT4SIGHXZQ61E0BPN
+[2025.09.04-17.33.42:721][966]LogSavePackage: Moving '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Saved/0FWE1XT4SIGHXZQ61E0BPNAACDF176465184FEC56016A9C373B2AE.tmp' to '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/PP/0FWE1XT4SIGHXZQ61E0BPN.uasset'
+[2025.09.04-17.33.42:726][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/LH/V6N3G2I7QT53NAD6H1AD04
+[2025.09.04-17.33.42:726][966]LogSavePackage: Moving '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Saved/V6N3G2I7QT53NAD6H1AD04DADE67CC4FCA1EF792C6F78509485A27.tmp' to '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/LH/V6N3G2I7QT53NAD6H1AD04.uasset'
+[2025.09.04-17.33.42:754][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/EJ/7JCMZ75LZ4IDNH7SV7SZBW
+[2025.09.04-17.33.42:754][966]LogSavePackage: Moving '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Saved/7JCMZ75LZ4IDNH7SV7SZBWE311FCE844C72FC8A76595BA18963747.tmp' to '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/EJ/7JCMZ75LZ4IDNH7SV7SZBW.uasset'
+[2025.09.04-17.33.42:756][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/WV/FF6LPDZ0FKKLS0GFFG7RY1
+[2025.09.04-17.33.42:757][966]LogSavePackage: Moving '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Saved/FF6LPDZ0FKKLS0GFFG7RY1E6D391E54561FA15B3216EB9AAECB638.tmp' to '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/WV/FF6LPDZ0FKKLS0GFFG7RY1.uasset'
+[2025.09.04-17.33.42:759][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/JS/24450VHCRABFZNLJT222WG
+[2025.09.04-17.33.42:759][966]LogSavePackage: Moving '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Saved/24450VHCRABFZNLJT222WG862593C34AD5FE5909A82EA9F0D039C2.tmp' to '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/JS/24450VHCRABFZNLJT222WG.uasset'
+[2025.09.04-17.33.42:761][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/AX/QD7MAQAIBJ16OYN5ZXXIUV
+[2025.09.04-17.33.42:761][966]LogSavePackage: Moving '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Saved/QD7MAQAIBJ16OYN5ZXXIUV1875AB9A44DC396456684B85168FD536.tmp' to '../../../../../../Unreal Projects/TMS/UE08/TMS_TopDown_01/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/AX/QD7MAQAIBJ16OYN5ZXXIUV.uasset'
+[2025.09.04-17.33.42:787][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.515 ms
+[2025.09.04-17.33.42:862][966]LogContentValidation: Display: Starting to validate 7 assets
+[2025.09.04-17.33.42:862][966]LogContentValidation: Enabled validators:
+[2025.09.04-17.33.42:862][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-17.33.42:862][966]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-17.33.42:862][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-17.33.42:862][966]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-17.33.42:862][966]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-17.33.42:862][966]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-17.33.42:863][966]AssetCheck: /Game/TopDown/Maps/TopDownMap Validating asset
